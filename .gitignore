@@ -20,6 +20,13 @@ massif-*
 *.pdb
 *.ilk
 *.lib
+*.suo
+*.user
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
 
 # CMake generates *.dir/ folders for in-tree builds (used by MSVC projects), ignore all of those:
 *.dir/
